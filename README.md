@@ -14,3 +14,10 @@ then
 
 
 `ng serve --host 0.0.0.0`
+
+
+
+now you can access your application no 
+
+
+http://server_ip:4200/
